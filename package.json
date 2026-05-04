@@ -1,0 +1,6 @@
+{
+  "name": "agent-helm-simulador-de-portafolio-de-inv-morj0q8d",
+  "version": "1.0.0",
+  "description": "Proyecto de Helm [Gen6]: simulador de portafolio de inversiones con graficas",
+  "main": "index.js"
+}
